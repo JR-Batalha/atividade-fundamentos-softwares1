@@ -1,4 +1,4 @@
 function mostrarMensagem() {
     const div = document.getElementById('mensagem');
-    div.innerHTML = "Olá! Seja bem-vindo(a) à minha página.";
+    div.innerHTML = "Comece com confiança e faça de cada momento um sucesso!";
 }
